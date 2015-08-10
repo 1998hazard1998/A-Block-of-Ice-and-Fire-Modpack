@@ -1,0 +1,12 @@
+{
+    "minimumVersion": 1,
+    "packages": [
+        {
+            "name": "A Block of Ice and Fire",
+            "title": "A Block of Ice and Fire",
+            "version": "1.0",
+            "location": "https://docs.google.com/uc?authuser=0&id=0B-MHQhirHx7MdEJuTnpXQWZEX1U&export=download",
+            "priority": 1
+        }
+    ]
+}
