@@ -1,12 +1,12 @@
 {
-    "minimumVersion": 1,
-    "packages": [
-        {
-            "name": "A Block of Ice and Fire",
-            "title": "A Block of Ice and Fire",
-            "version": "1.0",
-            "location": "https://docs.google.com/uc?authuser=0&id=0B-MHQhirHx7MdEJuTnpXQWZEX1U&export=download",
-            "priority": 1
-        }
-    ]
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "A Block of Ice and Fire Modpack",
+      "name" : "A Block Of Ice and Fire Modpack",
+      "version" : "2015-08-10-14-35-06",
+      "location" : "a-block-of-ice-and-fire-modpack.json",
+      "priority" : 0
+    }
+  ]
 }
