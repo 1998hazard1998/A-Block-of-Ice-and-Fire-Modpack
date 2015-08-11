@@ -1,0 +1,21 @@
+{
+    "blocks":
+    [
+        {
+            "name": "Skull Block",
+            "textureName": "skulls",
+            "creativeTab":"Miscellaneous"
+        },
+        {
+            "name": "Wet Sand",
+            "textureName": "wetsand",
+            "creativeTab":"Miscellaneous"
+        },
+        {
+            "name": "Cage",
+            "textureName": "cageglass",
+			"isOpaque": "false",
+            "creativeTab":"Miscellaneous"
+        }
+    ]
+}
