@@ -1,0 +1,36 @@
+{
+	"creativeTabs":[
+		{
+			"tabLabel":"Wooden Blocks",
+			"iconItem":"minecraft:log"                
+		},
+		{
+			"tabLabel":"Walls",
+			"iconItem":"minecraft:brick"                
+		},
+		{
+			"tabLabel":"Natural",
+			"iconItem":"minecraft:wheat"                
+		},
+		{
+			"tabLabel":"Roofing",
+			"iconItem":"minecraft:hay_block"                
+		},
+		{
+			"tabLabel":"Miscellaneous",
+			"iconItem":"minecraft:cobble"                
+		},
+		{
+			"tabLabel":"Geology",
+			"iconItem":"minecraft:stone"                
+		},
+		{
+			"tabLabel":"Decoration",
+			"iconItem":"minecraft:wool"                
+		},
+		{
+			"tabLabel":"Animals",
+			"iconItem":"minecraft:playerhead"                
+		}
+	]
+}

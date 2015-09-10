@@ -1,0 +1,61 @@
+{
+    "blocks":
+    [
+        {
+            "name": "Bat",
+            "textureName": "bat",
+            "creativeTab": "Animals",
+			"registerOrder": 1,
+			"type": "crossed"
+        },
+        {
+            "name": "Birds Nest",
+            "textureName": "birds_nest",
+            "creativeTab": "Animals",
+			"registerOrder": 2,
+			"type": "crossed"
+        },
+        {
+            "name": "Blue Butterfly",
+            "textureName": "blue_butterfly",
+            "creativeTab": "Animals",
+			"registerOrder": 3,
+			"type": "crossed"
+        },
+        {
+            "name": "Blue Bird",
+            "textureName": "bluebird",
+            "creativeTab": "Animals",
+			"registerOrder": 4,
+			"type": "crossed"
+		},
+        {
+            "name": "Hawk",
+            "textureName": "hawk",
+            "creativeTab": "Animals",
+			"registerOrder": 5,
+			"type": "crossed"
+        },
+        {
+            "name": "Orange Butterfly",
+            "textureName": "orange_butterfly",
+            "creativeTab": "Animals",
+			"registerOrder": 6,
+			"type": "crossed"
+        },
+        {
+            "name": "Owl",
+            "textureName": "owl",
+            "creativeTab": "Animals",
+			"registerOrder": 7,
+			"type": "crossed"
+        },
+        {
+            "name": "Raven",
+            "textureName": "raven",
+            "creativeTab": "Animals",
+			"registerOrder": 8,
+			"type": "crossed"
+        }
+    ]
+}
