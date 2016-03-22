@@ -2,9 +2,9 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "A Block of Ice and Fire Modpack",
+      "title" : "A Block Of Ice and Fire Modpack",
       "name" : "A Block Of Ice and Fire Modpack",
-      "version" : "2015-12-24-11-29-23",
+      "version" : "2016-03-22-16-53-00",
       "location" : "a-block-of-ice-and-fire-modpack.json",
       "priority" : 0
     }
