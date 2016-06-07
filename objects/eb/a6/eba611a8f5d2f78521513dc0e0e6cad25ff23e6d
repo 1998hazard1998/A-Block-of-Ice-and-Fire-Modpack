@@ -1,0 +1,39 @@
+{
+    "blocks":
+    [
+        {
+            "name": "Skull Block",
+            "textureName": "skulls",
+            "creativeTab":"Miscellaneous"
+        },
+        {
+            "name": "Wet Sand",
+            "textureName": "wetsand",
+            "creativeTab":"Miscellaneous"
+        },
+        {
+            "name": "Cage",
+            "textureName": "cageglass",
+			"isOpaque": "false",
+            "creativeTab":"Miscellaneous"
+        },
+        {
+            "name": "Weirwood Face",
+            "textureName": "weirwood_face",
+			"isOpaque": "false",
+            "creativeTab":"Miscellaneous"
+        },
+        {
+            "name": "Bronze Block",
+            "multipleTextures": {
+                "yneg": "bronze_top",
+                "ypos": "bronze_top",
+                "zneg": "bronze_side",
+                "zpos": "bronze_side",
+                "xneg": "bronze_side",
+                "xpos": "bronze_side"
+            },
+            "creativeTab": "Miscellaneous"
+        }
+    ]
+}
