@@ -3,8 +3,8 @@
   "packages" : [
     {
       "title" : null,
-      "name" : "A block of ice and fire modpack",
-      "version" : "2016-08-05-18-17-37",
+      "name" : "A Block of Ice and Fire Modpack",
+      "version" : "2016-06-08-07-57-43",
       "location" : "a-block-of-ice-and-fire-modpack.json",
       "priority" : 0
     }

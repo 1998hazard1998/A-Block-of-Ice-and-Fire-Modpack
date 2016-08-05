@@ -1,0 +1,521 @@
+{
+    "blocks": [
+        {
+            "name": "Snowy Stone",
+            "textureName": "snowstone",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Mossy Stone",
+            "textureName": "mossstone",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Debris",
+            "textureName": "debris",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Debris Slab",
+            "textureName": "debris",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Gravel Slab",
+            "textureName": "gravel",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Dirt Slab",
+            "textureName": "dirt",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Gravel Path",
+            "textureName": "gravelpath",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Dirt Path",
+            "textureName": "dirtpath",
+            "creativeTab": "Geology",
+			"material":"grass"
+        },
+        {
+            "name": "Dirt Path Slab",
+            "textureName": "dirtpath",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Gravel Path Slab",
+            "textureName": "gravelpath",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Leaves Dirt",
+            "textureName": "dirt_leaves",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Leaves Pine",
+            "textureName": "dirt_pine",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Andesite",
+            "textureName": "Andesite",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "AndesiteRefined",
+            "textureName": "AndestieRefined",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Diorite",
+            "textureName": "Diorite",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Granite",
+            "textureName": "Granite",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Andesite Slab",
+            "textureName": "Andesite",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "AndesiteRefined Slab",
+            "textureName": "AndestieRefined",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Diorite Slab",
+            "textureName": "Diorite",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Granite Slab",
+            "textureName": "Granite",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Brown Stone",
+            "textureName": "brownclay",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Grey Stone",
+            "textureName": "greyclay",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Mud Stone",
+            "textureName": "hardenedclay",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Light Mud Stone",
+            "multipleTextures": {
+                "yneg": "natsandstonetop",
+                "ypos": "natsandstonetop",
+                "zneg": "natsandstoneside",
+                "zpos": "natsandstoneside",
+                "xneg": "natsandstoneside",
+                "xpos": "natsandstoneside"
+            },
+            "creativeTab": "Geology",
+            "registerOrder": 51
+        },
+        {
+            "name": "Dark Mud Stone",
+            "textureName": "orangeclay",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Red Stone",
+            "textureName": "redclay",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "White Stone",
+            "textureName": "whiteclay",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Yellow Stone",
+            "textureName": "yellowclay",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Dried Clay",
+            "textureName": "dried_clay",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Dried Dirt",
+            "textureName": "dried_dirt",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Gravely Dirt",
+            "textureName": "gravely_dirt",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Grassy Gravely Dirt",
+            "textureName": "grassy_gravely_dirt",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Slate",
+            "multipleTextures": {
+                "yneg": "slate_top",
+                "ypos": "slate_top",
+                "zneg": "slate_side",
+                "zpos": "slate_side",
+                "xneg": "slate_side",
+                "xpos": "slate_side"
+            },
+            "creativeTab": "Geology",
+            "registerOrder": 51
+        },
+        {
+            "name": "Leaves Dirt Slab",
+            "textureName": "dirt_leaves",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Leaves Pine Slab",
+            "textureName": "dirt_pine",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Mud",
+            "textureName": "mud",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Mud Slab",
+            "textureName": "mud",
+            "creativeTab": "Geology",
+            "type": "slab"
+        },
+        {
+            "name": "Stalagmite",
+            "textureName": "stalagmite",
+            "creativeTab": "Geology",
+            "type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Stalactite",
+            "textureName": "stalactite",
+            "creativeTab": "Geology",
+            "type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Icicle 1",
+            "textureName": "icicle",
+            "creativeTab": "Geology",
+            "type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Icicle 2",
+            "textureName": "icicle2",
+            "creativeTab": "Geology",
+            "type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Rough Slate Rock",
+            "textureName": "slate2",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Watery Slate Rock",
+            "textureName": "wet_slate",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Marble Rock",
+            "textureName": "marblerock",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Hornfels",
+            "textureName": "smooth_black_stone",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Cut Limestone",
+            "textureName": "cut_limestone",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Marble",
+            "textureName": "marble",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Soft Gravel",
+            "textureName": "soft_gravel",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "White Gravel",
+            "textureName": "white_gravel",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Andesite Smooth Slab",
+            "textureName": "stone_andesite_smooth",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Cut Limestone Slab",
+            "textureName": "cut_limestone",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Diorite Smooth Slab",
+            "textureName": "stone_diorite_smooth",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Hornfels Slab",
+            "textureName": "smooth_black_stone",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Marble Slab",
+            "textureName": "marble",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Mining Debris Slab",
+            "textureName": "mining_debris",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Mudstone Slab",
+            "textureName": "nat_mudstone",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Soft Gravel Slab",
+            "textureName": "soft_gravel",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "White Gravel Slab",
+            "textureName": "white_gravel",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Granite Rock Web",
+            "textureName": "granite_rock",
+            "creativeTab": "Geology",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Limestone Rock Web",
+            "textureName": "limestone_rock",
+            "creativeTab": "Geology",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Sandstone Rock Web",
+            "textureName": "sandstone_rock",
+            "creativeTab": "Geology",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Andesite Smooth Paving",
+            "textureName": "stone_andesite_smooth",
+            "creativeTab": "Geology",
+			"type": "trapdoor",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Cut Limestone Paving",
+            "textureName": "cut_limestone",
+            "creativeTab": "Geology",
+			"type": "trapdoor",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Diorite Smooth Paving",
+            "textureName": "stone_diorite_smooth",
+            "creativeTab": "Geology",
+			"type": "trapdoor",
+			"isOpaque": "false"
+        },
+        {
+            "name": "stone slab Paving",
+            "textureName": "stone_slab_top",
+            "creativeTab": "Geology",
+			"type": "trapdoor",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Natural Slate",
+            "textureName": "slate",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Natural Slate Slab",
+            "textureName": "slate",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Schist",
+            "textureName": "schist",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Schist Slab",
+            "textureName": "schist",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Natural Mudstone",
+            "textureName": "mudstone",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Natural Mudstone Slab",
+            "textureName": "mudstone",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Shale",
+            "textureName": "shale",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Shale Slab",
+            "textureName": "shale",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Natural Sandstone Light ",
+            "textureName": "sandstone_light",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Natural Sandstone Light Slab",
+            "textureName": "sandstone_light",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Natural Sandstone Mid",
+            "textureName": "sandstone_mid",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Natural Sandstone Mid Slab",
+            "textureName": "sandstone_mid",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Natural Sandstone Dark",
+            "textureName": "sandstone_dark",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Natural Sandstone Dark Slab",
+            "textureName": "sandstone_dark",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Natural Granite",
+            "textureName": "natural_granite",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Natural Granite Slab",
+            "textureName": "natural_granite",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Limestone Light",
+            "textureName": "limestone_light",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Limestone Light Slab",
+            "textureName": "limestone_light",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Limestone Dark",
+            "textureName": "limestone_dark",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Limestone Dark Slab",
+            "textureName": "limestone_dark",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Chalk",
+            "textureName": "chalk",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Chalk Slab",
+            "textureName": "chalk",
+            "creativeTab": "Geology",
+			"type": "slab"
+        },
+        {
+            "name": "Natural Andesite",
+            "textureName": "NorthStone",
+            "creativeTab": "Geology"
+        },
+        {
+            "name": "Natural Andesite Slab",
+            "textureName": "natural_andesite",
+            "creativeTab": "Geology",
+			"type": "slab"
+        }
+    ]
+}

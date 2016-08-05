@@ -1,0 +1,216 @@
+{
+	"blocks": 
+	[
+		{
+			"name": "Pattern Floor",
+			"textureName": "arnor_floor",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Clay 2",
+			"textureName": "clay_2",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Clay Tiles",
+			"textureName": "tiles_clay",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Dirt Bones",
+			"textureName": "dirt_bones",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Dirt Path Dark",
+			"textureName": "dirt_path_dark",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Dirt Path Light",
+			"textureName": "dirt_path_light",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Dirt Path Mid",
+			"textureName": "dirt_path_mid",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Dirt Snow",
+			"textureName": "dirt_snow",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Dried River Bed",
+			"textureName": "dried_river_bed",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Dry Dirt",
+			"textureName": "dry_dirt",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Grey Tiles",
+			"textureName": "grey_tiles",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Grimy Paving",
+			"textureName": "grimy_paving",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Light Tiles",
+			"textureName": "tiles_light",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Mixed Tiles",
+			"textureName": "tiles_mixed",
+			"creativeTab": "Ground"
+		}, 
+		{
+			"name": "Pattern Floor Carpet",
+			"textureName": "arnor_floor",
+			"creativeTab": "Ground",
+			"type": "carpet",
+			"isOpaque": "false"
+		}, 
+		{
+			"name": "Dirt Carpet",
+			"textureName": "dirt",
+			"creativeTab": "Ground",
+			"type": "carpet",
+			"isOpaque": "false"
+		}, 
+		{
+			"name": "Grimy Paving Carpet",
+			"textureName": "grimy_paving",
+			"creativeTab": "Ground",
+			"type": "carpet",
+			"isOpaque": "false"
+		}, 
+		{
+			"name": "Clay Tiles Paving",
+			"textureName": "tiles_clay",
+			"creativeTab": "Ground",
+			"type": "trapdoor",
+			"isOpaque": "false"
+		}, 
+		{
+			"name": "Dirt Paving",
+			"textureName": "dirt",
+			"creativeTab": "Ground",
+			"type": "trapdoor",
+			"isOpaque": "false"
+		}, 
+		{
+			"name": "Grimy Paving Paving",
+			"textureName": "grimy_paving",
+			"creativeTab": "Ground",
+			"type": "trapdoor",
+			"isOpaque": "false"
+		}, 
+		{
+			"name": "Light Tiles Paving",
+			"textureName": "tiles_light",
+			"creativeTab": "Ground",
+			"type": "trapdoor",
+			"isOpaque": "false"
+		},
+		{
+			"name": "Mixed Tiles Paving",
+			"textureName": "tiles_mixed",
+			"creativeTab": "Ground",
+			"type": "trapdoor",
+			"isOpaque": "false"
+		}, 
+		{
+			"name": "Hole Plate",
+			"textureName": "hole_plate",
+			"creativeTab": "Ground",
+			"type": "carpet",
+			"isOpaque": "false"
+		}, 
+		{
+			"name": "Pattern Floor Slab",
+			"textureName": "arnor_floor",
+			"creativeTab": "Ground",
+			"type": "slab"
+		}, 
+		{
+			"name": "Clay 2 Slab",
+			"textureName": "clay_2",
+			"creativeTab": "Ground",
+			"type": "slab"
+		},
+		{
+			"name": "Clay Tiles Slab",
+			"textureName": "tiles_clay",
+			"creativeTab": "Ground",
+			"type": "slab"
+		}, 
+		{
+			"name": "Dirt Bones Slab",
+			"textureName": "dirt_bones",
+			"creativeTab": "Ground",
+			"type": "slab"
+		},
+		{
+			"name": "Dirt Path Dark Slab",
+			"textureName": "dirt_path_dark",
+			"creativeTab": "Ground",
+			"type": "slab"
+		}, 
+		{
+			"name": "Dirt Path Mid Slab",
+			"textureName": "dirt_path_mid",
+			"creativeTab": "Ground",
+			"type": "slab"
+		}, 
+		{
+			"name": "Dirt Path Light Slab",
+			"textureName": "dirt_path_light",
+			"creativeTab": "Ground",
+			"type": "slab"
+		}, 
+		{
+			"name": "Dried River Bed Slab",
+			"textureName": "dried_river_bed",
+			"creativeTab": "Ground",
+			"type": "slab"
+		},
+		{
+			"name": "Dry Dirt Slab",
+			"textureName": "dry_dirt",
+			"creativeTab": "Ground",
+			"type": "slab"
+		}, 
+		{
+			"name": "Grey Tiles Slab",
+			"textureName": "grey_tiles",
+			"creativeTab": "Ground",
+			"type": "slab"
+		}, 
+		{
+			"name": "Grimy Paving Slab",
+			"textureName": "grimy_paving",
+			"creativeTab": "Ground",
+			"type": "slab"
+		}, 
+		{
+			"name": "Light Tiles Slab",
+			"textureName": "tiles_light",
+			"creativeTab": "Ground",
+			"type": "slab"
+		}, 
+		{
+			"name": "Mixed Tiles Slab",
+			"textureName": "tiles_mixed",
+			"creativeTab": "Ground",
+			"type": "slab"
+		}
+	]
+}
