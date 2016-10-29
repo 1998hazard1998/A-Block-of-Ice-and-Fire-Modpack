@@ -1,0 +1,70 @@
+{
+    "blocks": [
+        {
+            "name": "Approved",
+            "textureName": "approved",
+            "creativeTab": "Project Tools",
+            "registerOrder": 1
+        },
+        {
+            "name": "Not Approved",
+            "textureName": "not_approved",
+            "creativeTab": "Project Tools",
+            "registerOrder": 2
+        },
+        {
+            "name": "Waiting Approval",
+            "textureName": "waiting_approval",
+            "creativeTab": "Project Tools",
+            "registerOrder": 3
+        },
+        {
+            "name": "Name",
+            "textureName": "name",
+            "creativeTab": "Project Tools",
+            "registerOrder": 5
+        },
+        {
+            "name": "Comment",
+            "textureName": "comment",
+            "creativeTab": "Project Tools",
+            "registerOrder": 6
+        },
+        {
+            "name": "Sign",
+            "textureName": "sign",
+            "creativeTab": "Project Tools",
+            "registerOrder": 7
+        },
+        {
+            "name": "Low Class",
+            "textureName": "low_class",
+            "creativeTab": "Project Tools",
+            "registerOrder": 8
+        },
+        {
+            "name": "Middle Class",
+            "textureName": "middle_class",
+            "creativeTab": "Project Tools",
+            "registerOrder": 9
+        },
+        {
+            "name": "High Class",
+            "textureName": "high_class",
+            "creativeTab": "Project Tools",
+            "registerOrder": 10
+        },
+        {
+            "name": "Special",
+            "textureName": "special",
+            "creativeTab": "Project Tools",
+            "registerOrder": 11
+        },
+        {
+            "name": "Other",
+            "textureName": "other",
+            "creativeTab": "Project Tools",
+            "registerOrder": 4
+        }
+    ]
+}

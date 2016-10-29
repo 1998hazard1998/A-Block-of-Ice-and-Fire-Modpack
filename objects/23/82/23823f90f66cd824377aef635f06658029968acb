@@ -1,0 +1,2307 @@
+{
+    "blocks":
+    [
+        {
+            "name": "Birch Log Wall",
+            "multipleTextures":{
+                "yneg":"logwalltop",
+                "ypos":"logwalltop",
+                "zneg":"birchwallside",
+                "zpos":"birchwallside",
+                "xneg":"birchwallside",
+                "xpos":"birchwallside"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"Wall",
+			"registerOrder": 6,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Oak Log Wall",
+            "multipleTextures":{
+                "yneg":"logwalltop",
+                "ypos":"logwalltop",
+                "zneg":"oakwallside",
+                "zpos":"oakwallside",
+                "xneg":"oakwallside",
+                "xpos":"oakwallside"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"Wall",
+			"registerOrder": 4,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Spruce Log Wall",
+            "multipleTextures":{
+                "yneg":"logwalltop",
+                "ypos":"logwalltop",
+                "zneg":"sprucewallside",
+                "zpos":"sprucewallside",
+                "xneg":"sprucewallside",
+                "xpos":"sprucewallside"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"Wall",
+			"registerOrder": 5,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Birch Log Fence",
+            "multipleTextures":{
+                "yneg":"logwalltop",
+                "ypos":"logwalltop",
+                "zneg":"birchwallside",
+                "zpos":"birchwallside",
+                "xneg":"birchwallside",
+                "xpos":"birchwallside"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"Fence",
+			"registerOrder": 3,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Oak Log Fence",
+            "multipleTextures":{
+                "yneg":"logwalltop",
+                "ypos":"logwalltop",
+                "zneg":"oakwallside",
+                "zpos":"oakwallside",
+                "xneg":"oakwallside",
+                "xpos":"oakwallside"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"Fence",
+			"registerOrder": 1,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Spruce Log Fence",
+            "multipleTextures":{
+                "yneg":"logwalltop",
+                "ypos":"logwalltop",
+                "zneg":"sprucewallside",
+                "zpos":"sprucewallside",
+                "xneg":"sprucewallside",
+                "xpos":"sprucewallside"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"fence",
+			"registerOrder": 2,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Spruce Log Stairs",
+            "textureName": "sprucewallside",
+            "creativeTab":"Wooden Blocks",
+            "type":"stairs",
+			"registerOrder": 8
+        },
+        {
+            "name": "Birch Log Stairs",
+            "textureName": "birchwallside",
+            "creativeTab":"Wooden Blocks",
+            "type":"stairs",
+			"registerOrder": 9
+        },
+        {
+            "name": "Oak Log Stairs",
+            "textureName": "oakwallside",
+            "creativeTab":"Wooden Blocks",
+            "type":"stairs",
+			"registerOrder": 7
+        },
+        {
+            "name": "Spruce Log Slabs",
+            "textureName": "sprucewallside",
+            "creativeTab":"Wooden Blocks",
+            "type":"slab",
+			"registerOrder": 11
+        },
+        {
+            "name": "Oak Log Slabs",
+            "textureName": "oakwallside",
+            "creativeTab":"Wooden Blocks",
+            "type":"slab",
+			"registerOrder": 10
+        },
+        {
+            "name": "Birch Log Slabs",
+            "textureName": "birchwallside",
+            "creativeTab":"Wooden Blocks",
+            "type":"slab",
+			"registerOrder": 12
+        },
+        {
+            "name": "Jungle Log Wall",
+            "multipleTextures":{
+                "yneg":"log_jungle",
+                "ypos":"log_jungle",
+                "zneg":"log_jungle",
+                "zpos":"log_jungle",
+                "xneg":"log_jungle",
+                "xpos":"log_jungle"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"Wall",
+			"registerOrder": 48,
+			"isOpaque": "false" 
+        },
+        {
+            "name": "Acacia Log Wall",
+            "multipleTextures":{
+                "yneg":"log_acacia",
+                "ypos":"log_acacia",
+                "zneg":"log_acacia",
+                "zpos":"log_acacia",
+                "xneg":"log_acacia",
+                "xpos":"log_acacia"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"Wall",
+			"registerOrder": 49,
+			"isOpaque": "false" 
+        },
+        {
+            "name": "Dark Oak Log Wall",
+            "multipleTextures":{
+                "yneg":"log_dark_oak",
+                "ypos":"log_dark_oak",
+                "zneg":"log_dark_oak",
+                "zpos":"log_dark_oak",
+                "xneg":"log_dark_oak",
+                "xpos":"log_dark_oak"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"Wall",
+			"registerOrder": 50,
+			"isOpaque": "false" 
+        },
+        {
+            "name": "Jungle Log Fence",
+            "multipleTextures":{
+                "yneg":"log_jungle",
+                "ypos":"log_jungle",
+                "zneg":"log_jungle",
+                "zpos":"log_jungle",
+                "xneg":"log_jungle",
+                "xpos":"log_jungle"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"fence",
+			"registerOrder": 51,
+			"isOpaque": "false" 
+        },
+        {
+            "name": "Acacia Log Fence",
+            "multipleTextures":{
+                "yneg":"log_acacia",
+                "ypos":"log_acacia",
+                "zneg":"log_acacia",
+                "zpos":"log_acacia",
+                "xneg":"log_acacia",
+                "xpos":"log_acacia"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"fence",
+			"registerOrder": 52,
+			"isOpaque": "false" 
+        },
+        {
+            "name": "Dark Oak Log Fence",
+            "multipleTextures":{
+                "yneg":"log_dark_oak",
+                "ypos":"log_dark_oak",
+                "zneg":"log_dark_oak",
+                "zpos":"log_dark_oak",
+                "xneg":"log_dark_oak",
+                "xpos":"log_dark_oak"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"fence",
+			"registerOrder": 53,
+			"isOpaque": "false" 
+        },
+        {
+            "name": "Jungle Log Stair",
+            "multipleTextures":{
+                "yneg":"log_jungle",
+                "ypos":"log_jungle",
+                "zneg":"log_jungle",
+                "zpos":"log_jungle",
+                "xneg":"log_jungle",
+                "xpos":"log_jungle"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"stair",
+			"registerOrder": 54 
+        },
+        {
+            "name": "Acacia Log stair",
+            "multipleTextures":{
+                "yneg":"log_acacia",
+                "ypos":"log_acacia",
+                "zneg":"log_acacia",
+                "zpos":"log_acacia",
+                "xneg":"log_acacia",
+                "xpos":"log_acacia"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"stair",
+			"registerOrder": 55 
+        },
+        {
+            "name": "Dark Oak Log Stair",
+            "multipleTextures":{
+                "yneg":"log_dark_oak",
+                "ypos":"log_dark_oak",
+                "zneg":"log_dark_oak",
+                "zpos":"log_dark_oak",
+                "xneg":"log_dark_oak",
+                "xpos":"log_dark_oak"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"Stair",
+			"registerOrder": 56 
+        },
+        {
+            "name": "Jungle Log Slab",
+            "multipleTextures":{
+                "yneg":"log_jungle",
+                "ypos":"log_jungle",
+                "zneg":"log_jungle",
+                "zpos":"log_jungle",
+                "xneg":"log_jungle",
+                "xpos":"log_jungle"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"slab",
+			"registerOrder": 57 
+        },
+        {
+            "name": "Acacia Log Slab",
+            "multipleTextures":{
+                "yneg":"log_acacia",
+                "ypos":"log_acacia",
+                "zneg":"log_acacia",
+                "zpos":"log_acacia",
+                "xneg":"log_acacia",
+                "xpos":"log_acacia"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"slab",
+			"registerOrder": 58 
+        },
+        {
+            "name": "Dark Oak Log Slab",
+            "multipleTextures":{
+                "yneg":"log_dark_oak",
+                "ypos":"log_dark_oak",
+                "zneg":"log_dark_oak",
+                "zpos":"log_dark_oak",
+                "xneg":"log_dark_oak",
+                "xpos":"log_dark_oak"
+            },
+            "creativeTab":"Wooden Blocks",
+            "type":"Slab",
+			"registerOrder": 59 
+        },
+        {
+            "name": "Blue Wooden Planks",
+            "textureName": "blue",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 27
+        },
+        {
+            "name": "Red Wooden Planks",
+            "textureName": "red",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 28
+        },
+        {
+            "name": "White Wooden Planks",
+            "textureName": "white",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 29
+        },
+        {
+            "name": "Yellow Wooden Planks",
+            "textureName": "yellow",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 30
+		},
+        {
+            "name": "Green Wooden Planks",
+            "textureName": "green",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 31
+		},
+        {
+            "name": "Blue Wooden Planks Slab",
+            "textureName": "blueslab",
+            "creativeTab": "Wooden Blocks",
+            "type": "Slab",
+			"registerOrder": 32
+        },
+        {
+            "name": "Red Wooden Planks Slab",
+            "textureName": "redslab",
+            "creativeTab": "Wooden Blocks",
+            "type": "Slab",
+			"registerOrder": 33
+        },
+        {
+            "name": "White Wooden Planks Slab",
+            "textureName": "whiteslab",
+            "creativeTab": "Wooden Blocks",
+            "type": "Slab",
+			"registerOrder": 34
+        },
+        {
+            "name": "Green Wooden Planks Slab",
+            "textureName": "greenslab",
+            "creativeTab": "Wooden Blocks",
+            "type": "Slab",
+			"registerOrder": 35
+        },
+        {
+            "name": "Yellow Wooden Planks Slab",
+            "textureName": "yellowslab",
+            "creativeTab": "Wooden Blocks",
+            "type": "Slab",
+			"registerOrder": 36
+        },
+        {
+            "name": "Blue Wooden Planks Stair",
+            "textureName": "bluestair",
+            "creativeTab": "Wooden Blocks",
+            "type": "Stairs",
+			"registerOrder": 37
+        },
+        {
+            "name": "Red Wooden Planks Stair",
+            "textureName": "redstair",
+            "creativeTab": "Wooden Blocks",
+            "type": "Stairs",
+			"registerOrder": 38
+        },
+        {
+            "name": "White Wooden Planks Stair",
+            "textureName": "whitestair",
+            "creativeTab": "Wooden Blocks",
+            "type": "Stairs",
+			"registerOrder": 39
+        },
+        {
+            "name": "Green Wooden Planks Stair",
+            "textureName": "greenstair",
+            "creativeTab": "Wooden Blocks",
+            "type": "Stairs",
+			"registerOrder": 41
+        },
+        {
+            "name": "Yellow Wooden Planks Stair",
+            "textureName": "yellowstair",
+            "creativeTab": "Wooden Block",
+            "type": "Stairs",
+			"registerOrder": 40
+        },
+        {
+            "name": "Bordered Spruce",
+            "textureName": "spruce1",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 47
+        },	
+        {
+            "name": "Bordered Spruce Slab",
+            "textureName": "spruce1",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 47,
+			"type": "slab"
+        },			
+        {
+            "name": "Bordered Spruce Stair",
+            "textureName": "spruce1",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 47,
+			"type": "stair"
+        },
+        {
+            "name": "Birch Pillar",
+            "multipleTextures":{
+                "yneg":"pillar_top",
+                "ypos":"pillar_top",
+                "zneg":"birch_pillar",
+                "zpos":"birch_pillar",
+                "xneg":"birch_pillar",
+                "xpos":"birch_pillar"
+            },
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 60 
+        },
+        {
+            "name": "Jungle Pillar",
+            "multipleTextures":{
+                "yneg":"pillar_top",
+                "ypos":"pillar_top",
+                "zneg":"jungle_pillar",
+                "zpos":"jungle_pillar",
+                "xneg":"jungle_pillar",
+                "xpos":"jungle_pillar"
+            },
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 61 
+        },
+        {
+            "name": "Spruce Pillar",
+            "multipleTextures":{
+                "yneg":"pillar_top",
+                "ypos":"pillar_top",
+                "zneg":"spruce_pillar",
+                "zpos":"spruce_pillar",
+                "xneg":"spruce_pillar",
+                "xpos":"spruce_pillar"
+            },
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 62 
+        },
+        {
+            "name": "Oak Pillar",
+            "multipleTextures":{
+                "yneg":"pillar_top",
+                "ypos":"pillar_top",
+                "zneg":"oak_pillar",
+                "zpos":"oak_pillar",
+                "xneg":"oak_pillar",
+                "xpos":"oak_pillar"
+            },
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 63 
+        },
+        {
+            "name": "Birch Pillar Wall",
+            "multipleTextures":{
+                "yneg":"pillar_top",
+                "ypos":"pillar_top",
+                "zneg":"birch_pillar",
+                "zpos":"birch_pillar",
+                "xneg":"birch_pillar",
+                "xpos":"birch_pillar"
+            },
+            "creativeTab":"Wooden Blocks",
+			"type": "wall",
+			"registerOrder": 64,
+			"isOpaque": "false" 
+        },
+        {
+            "name": "Jungle Pillar Wall",
+            "multipleTextures":{
+                "yneg":"pillar_top",
+                "ypos":"pillar_top",
+                "zneg":"jungle_pillar",
+                "zpos":"jungle_pillar",
+                "xneg":"jungle_pillar",
+                "xpos":"jungle_pillar"
+            },
+            "creativeTab":"Wooden Blocks",
+			"type": "wall",
+			"registerOrder": 65,
+			"isOpaque": "false" 
+        },
+        {
+            "name": "Spruce Pillar Wall",
+            "multipleTextures":{
+                "yneg":"pillar_top",
+                "ypos":"pillar_top",
+                "zneg":"spruce_pillar",
+                "zpos":"spruce_pillar",
+                "xneg":"spruce_pillar",
+                "xpos":"spruce_pillar"
+            },
+            "creativeTab":"Wooden Blocks",
+			"type": "wall",
+			"registerOrder": 66,
+			"isOpaque": "false" 
+        },
+        {
+            "name": "Oak Pillar Wall",
+            "multipleTextures":{
+                "yneg":"pillar_top",
+                "ypos":"pillar_top",
+                "zneg":"oak_pillar",
+                "zpos":"oak_pillar",
+                "xneg":"oak_pillar",
+                "xpos":"oak_pillar"
+            },
+            "creativeTab":"Wooden Blocks",
+			"type": "wall",
+			"registerOrder": 67,
+			"isOpaque": "false" 
+        },				
+        {
+            "name": "Reinforced Planks 1",
+            "textureName": "reinforced_planks",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 68
+        },			
+        {
+            "name": "Reinforced Planks 2",
+            "textureName": "reinforced_planks_2",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 69
+        },			
+        {
+            "name": "Bordered Oak",
+            "textureName": "bordered_oak",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 70
+        },			
+        {
+            "name": "Bordered Dark Oak",
+            "textureName": "bordered_spruce",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 71
+        },			
+        {
+            "name": "Birch Log Planks",
+            "textureName": "birch_logs",
+            "creativeTab": "Wooden Blocks",
+			"registerOrder": 72
+        },
+        {
+            "name": "Oak Beam",
+            "multipleTextures":{
+                "yneg":"oak_beam_top",
+                "ypos":"oak_beam_top",
+                "zneg":"oak_beam",
+                "zpos":"oak_beam",
+                "xneg":"oak_beam",
+                "xpos":"oak_beam"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 73
+        },
+        {
+            "name": "Oak Beam Slab",
+            "multipleTextures":{
+                "yneg":"oak_beam",
+                "ypos":"oak_beam",
+                "zneg":"oak_beam",
+                "zpos":"oak_beam",
+                "xneg":"oak_beam",
+                "xpos":"oak_beam"
+            },
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 74
+        },				
+        {
+            "name": "Oak Beam Stair",
+            "multipleTextures":{
+                "yneg":"oak_beam",
+                "ypos":"oak_beam",
+                "zneg":"oak_beam",
+                "zpos":"oak_beam",
+                "xneg":"oak_beam",
+                "xpos":"oak_beam"
+            },
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 75
+        },
+        {
+            "name": "Oak Beam Wall",
+            "multipleTextures":{
+                "yneg":"oak_beam_wall_top",
+                "ypos":"oak_beam_wall_top",
+                "zneg":"oak_beam_wall",
+                "zpos":"oak_beam_wall",
+                "xneg":"oak_beam_wall",
+                "xpos":"oak_beam_wall"
+            },
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 76,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Oak Beam Fence",
+            "multipleTextures":{
+                "yneg":"oak_beam_wall_top",
+                "ypos":"oak_beam_wall_top",
+                "zneg":"oak_beam_wall",
+                "zpos":"oak_beam_wall",
+                "xneg":"oak_beam_wall",
+                "xpos":"oak_beam_wall"
+            },
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 77,
+			"isOpaque": "false"
+        },			
+        {
+            "name": "Birch Beam",
+            "multipleTextures":{
+                "yneg":"birch_beam_top",
+                "ypos":"birch_beam_top",
+                "zneg":"birch_beam",
+                "zpos":"birch_beam",
+                "xneg":"birch_beam",
+                "xpos":"birch_beam"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 78
+        },
+        {
+            "name": "Birch Beam Slab",
+            "multipleTextures":{
+                "yneg":"birch_beam",
+                "ypos":"birch_beam",
+                "zneg":"birch_beam",
+                "zpos":"birch_beam",
+                "xneg":"birch_beam",
+                "xpos":"birch_beam"
+            },
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 79
+        },				
+        {
+            "name": "Birch Beam Stair",
+            "multipleTextures":{
+                "yneg":"birch_beam",
+                "ypos":"birch_beam",
+                "zneg":"birch_beam",
+                "zpos":"birch_beam",
+                "xneg":"birch_beam",
+                "xpos":"birch_beam"
+            },
+			"type":"stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 80
+        },
+        {
+            "name": "Birch Beam Wall",
+            "multipleTextures":{
+                "yneg":"birch_beam_wall_top",
+                "ypos":"birch_beam_wall_top",
+                "zneg":"birch_beam_wall",
+                "zpos":"birch_beam_wall",
+                "xneg":"birch_beam_wall",
+                "xpos":"birch_beam_wall"
+            },
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 81,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Birch Beam Fence",
+            "multipleTextures":{
+                "yneg":"birch_beam_wall_top",
+                "ypos":"birch_beam_wall_top",
+                "zneg":"birch_beam_wall",
+                "zpos":"birch_beam_wall",
+                "xneg":"birch_beam_wall",
+                "xpos":"birch_beam_wall"
+            },
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 82,
+			"isOpaque": "false"
+        },			
+        {
+            "name": "Mossy Oak Log",
+            "multipleTextures":{
+                "yneg":"MossyOakTop",
+                "ypos":"MossyOakTop",
+                "zneg":"MossyOakSide",
+                "zpos":"MossyOakSide",
+                "xneg":"MossyOakSide",
+                "xpos":"MossyOakSide"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 83
+        },
+        {
+            "name": "Mossy Oak Log Slab",
+            "multipleTextures":{
+                "yneg":"MossyOakSide",
+                "ypos":"MossyOakSide",
+                "zneg":"MossyOakSide",
+                "zpos":"MossyOakSide",
+                "xneg":"MossyOakSide",
+                "xpos":"MossyOakSide"
+            },
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 84
+        },				
+        {
+            "name": "Mossy Oak Log Stair",
+            "multipleTextures":{
+                "yneg":"MossyOakSide",
+                "ypos":"MossyOakSide",
+                "zneg":"MossyOakSide",
+                "zpos":"MossyOakSide",
+                "xneg":"MossyOakSide",
+                "xpos":"MossyOakSide"
+            },
+			"type":"stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 85
+        },
+        {
+            "name": "Mossy Oak Log Wall",
+            "multipleTextures":{
+                "yneg":"MossyOakSide",
+                "ypos":"MossyOakSide",
+                "zneg":"MossyOakSide",
+                "zpos":"MossyOakSide",
+                "xneg":"MossyOakSide",
+                "xpos":"MossyOakSide"
+            },
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 86,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Mossy Oak Log Fence",
+            "multipleTextures":{
+                "yneg":"MossyOakSide",
+                "ypos":"MossyOakSide",
+                "zneg":"MossyOakSide",
+                "zpos":"MossyOakSide",
+                "xneg":"MossyOakSide",
+                "xpos":"MossyOakSide"
+            },
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 87,
+			"isOpaque": "false"
+        },			
+        {
+            "name": "Mossy Spruce Log",
+            "multipleTextures":{
+                "yneg":"MossySpruceTop",
+                "ypos":"MossySpruceTop",
+                "zneg":"MossySpruceSide",
+                "zpos":"MossySpruceSide",
+                "xneg":"MossySpruceSide",
+                "xpos":"MossySpruceSide"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 88
+        },
+        {
+            "name": "Mossy Spruce Log Slab",
+            "multipleTextures":{
+                "yneg":"MossySpruceSide",
+                "ypos":"MossySpruceSide",
+                "zneg":"MossySpruceSide",
+                "zpos":"MossySpruceSide",
+                "xneg":"MossySpruceSide",
+                "xpos":"MossySpruceSide"
+            },
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 89
+        },				
+        {
+            "name": "Mossy Spruce Log Stair",
+            "multipleTextures":{
+                "yneg":"MossySpruceSide",
+                "ypos":"MossySpruceSide",
+                "zneg":"MossySpruceSide",
+                "zpos":"MossySpruceSide",
+                "xneg":"MossySpruceSide",
+                "xpos":"MossySpruceSide"
+            },
+			"type":"stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 90
+        },
+        {
+            "name": "Mossy Spruce Log Wall",
+            "multipleTextures":{
+                "yneg":"MossySpruceSide",
+                "ypos":"MossySpruceSide",
+                "zneg":"MossySpruceSide",
+                "zpos":"MossySpruceSide",
+                "xneg":"MossySpruceSide",
+                "xpos":"MossySpruceSide"
+            },
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 91,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Mossy Spruce Log Fence",
+            "multipleTextures":{
+                "yneg":"MossySpruceSide",
+                "ypos":"MossySpruceSide",
+                "zneg":"MossySpruceSide",
+                "zpos":"MossySpruceSide",
+                "xneg":"MossySpruceSide",
+                "xpos":"MossySpruceSide"
+            },
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 92,
+			"isOpaque": "false"
+        },			
+        {
+            "name": "Mossy Birch Log",
+            "multipleTextures":{
+                "yneg":"MossyBirchTop",
+                "ypos":"MossyBirchTop",
+                "zneg":"MossyBirchSide",
+                "zpos":"MossyBirchSide",
+                "xneg":"MossyBirchSide",
+                "xpos":"MossyBirchSide"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 93
+        },
+        {
+            "name": "Mossy Birch Log Slab",
+            "multipleTextures":{
+                "yneg":"MossyBirchSide",
+                "ypos":"MossyBirchSide",
+                "zneg":"MossyBirchSide",
+                "zpos":"MossyBirchSide",
+                "xneg":"MossyBirchSide",
+                "xpos":"MossyBirchSide"
+            },
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 94
+        },				
+        {
+            "name": "Mossy Birch Log Stair",
+            "multipleTextures":{
+                "yneg":"MossyBirchSide",
+                "ypos":"MossyBirchSide",
+                "zneg":"MossyBirchSide",
+                "zpos":"MossyBirchSide",
+                "xneg":"MossyBirchSide",
+                "xpos":"MossyBirchSide"
+            },
+			"type":"stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 95
+        },
+        {
+            "name": "Mossy Birch Log Wall",
+            "multipleTextures":{
+                "yneg":"MossyBirchSide",
+                "ypos":"MossyBirchSide",
+                "zneg":"MossyBirchSide",
+                "zpos":"MossyBirchSide",
+                "xneg":"MossyBirchSide",
+                "xpos":"MossyBirchSide"
+            },
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 96,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Mossy Birch Log Fence",
+            "multipleTextures":{
+                "yneg":"MossyBirchSide",
+                "ypos":"MossyBirchSide",
+                "zneg":"MossyBirchSide",
+                "zpos":"MossyBirchSide",
+                "xneg":"MossyBirchSide",
+                "xpos":"MossyBirchSide"
+            },
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 97,
+			"isOpaque": "false"
+        },			
+        {
+            "name": "Mossy Jungle Log",
+            "multipleTextures":{
+                "yneg":"MossyJungleTop",
+                "ypos":"MossyJungleTop",
+                "zneg":"MossyJungleSide",
+                "zpos":"MossyJungleSide",
+                "xneg":"MossyJungleSide",
+                "xpos":"MossyJungleSide"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 98
+        },
+        {
+            "name": "Mossy Jungle Log Slab",
+            "multipleTextures":{
+                "yneg":"MossyJungleSide",
+                "ypos":"MossyJungleSide",
+                "zneg":"MossyJungleSide",
+                "zpos":"MossyJungleSide",
+                "xneg":"MossyJungleSide",
+                "xpos":"MossyJungleSide"
+            },
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 99
+        },				
+        {
+            "name": "Mossy Jungle Log Stair",
+            "multipleTextures":{
+                "yneg":"MossyJungleSide",
+                "ypos":"MossyJungleSide",
+                "zneg":"MossyJungleSide",
+                "zpos":"MossyJungleSide",
+                "xneg":"MossyJungleSide",
+                "xpos":"MossyJungleSide"
+            },
+			"type":"stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 100
+        },
+        {
+            "name": "Mossy Jungle Log Wall",
+            "multipleTextures":{
+                "yneg":"MossyJungleSide",
+                "ypos":"MossyJungleSide",
+                "zneg":"MossyJungleSide",
+                "zpos":"MossyJungleSide",
+                "xneg":"MossyJungleSide",
+                "xpos":"MossyJungleSide"
+            },
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 101,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Mossy Jungle Log Fence",
+            "multipleTextures":{
+                "yneg":"MossyJungleSide",
+                "ypos":"MossyJungleSide",
+                "zneg":"MossyJungleSide",
+                "zpos":"MossyJungleSide",
+                "xneg":"MossyJungleSide",
+                "xpos":"MossyJungleSide"
+            },
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 102,
+			"isOpaque": "false"
+        },			
+        {
+            "name": "Mossy Dark Oak Log",
+            "multipleTextures":{
+                "yneg":"MossyDarkOakTop",
+                "ypos":"MossyDarkOakTop",
+                "zneg":"MossyDarkOakSide",
+                "zpos":"MossyDarkOakSide",
+                "xneg":"MossyDarkOakSide",
+                "xpos":"MossyDarkOakSide"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 103
+        },
+        {
+            "name": "Mossy Dark Oak Log Slab",
+            "multipleTextures":{
+                "yneg":"MossyDarkOakSide",
+                "ypos":"MossyDarkOakSide",
+                "zneg":"MossyDarkOakSide",
+                "zpos":"MossyDarkOakSide",
+                "xneg":"MossyDarkOakSide",
+                "xpos":"MossyDarkOakSide"
+            },
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 104
+        },				
+        {
+            "name": "Mossy Dark Oak Log Stair",
+            "multipleTextures":{
+                "yneg":"MossyDarkOakSide",
+                "ypos":"MossyDarkOakSide",
+                "zneg":"MossyDarkOakSide",
+                "zpos":"MossyDarkOakSide",
+                "xneg":"MossyDarkOakSide",
+                "xpos":"MossyDarkOakSide"
+            },
+			"type":"stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 105
+        },
+        {
+            "name": "Mossy Dark Oak Log Wall",
+            "multipleTextures":{
+                "yneg":"MossyDarkOakSide",
+                "ypos":"MossyDarkOakSide",
+                "zneg":"MossyDarkOakSide",
+                "zpos":"MossyDarkOakSide",
+                "xneg":"MossyDarkOakSide",
+                "xpos":"MossyDarkOakSide"
+            },
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 106,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Mossy Dark Oak Log Fence",
+            "multipleTextures":{
+                "yneg":"MossyDarkOakSide",
+                "ypos":"MossyDarkOakSide",
+                "zneg":"MossyDarkOakSide",
+                "zpos":"MossyDarkOakSide",
+                "xneg":"MossyDarkOakSide",
+                "xpos":"MossyDarkOakSide"
+            },
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 107,
+			"isOpaque": "false"
+        },			
+        {
+            "name": "Mossy Acacia Log",
+            "multipleTextures":{
+                "yneg":"MossyAcaciaTop",
+                "ypos":"MossyAcaciaTop",
+                "zneg":"MossyAcaciaSide",
+                "zpos":"MossyAcaciaSide",
+                "xneg":"MossyAcaciaSide",
+                "xpos":"MossyAcaciaSide"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 108
+        },
+        {
+            "name": "Mossy Acacia Log Slab",
+            "multipleTextures":{
+                "yneg":"MossyAcaciaSide",
+                "ypos":"MossyAcaciaSide",
+                "zneg":"MossyAcaciaSide",
+                "zpos":"MossyAcaciaSide",
+                "xneg":"MossyAcaciaSide",
+                "xpos":"MossyAcaciaSide"
+            },
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 109
+        },				
+        {
+            "name": "Mossy Acacia Log Stair",
+            "multipleTextures":{
+                "yneg":"MossyAcaciaSide",
+                "ypos":"MossyAcaciaSide",
+                "zneg":"MossyAcaciaSide",
+                "zpos":"MossyAcaciaSide",
+                "xneg":"MossyAcaciaSide",
+                "xpos":"MossyAcaciaSide"
+            },
+			"type":"stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 110
+        },
+        {
+            "name": "Mossy Acacia Log Wall",
+            "multipleTextures":{
+                "yneg":"MossyAcaciaSide",
+                "ypos":"MossyAcaciaSide",
+                "zneg":"MossyAcaciaSide",
+                "zpos":"MossyAcaciaSide",
+                "xneg":"MossyAcaciaSide",
+                "xpos":"MossyAcaciaSide"
+            },
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 111,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Mossy Acacia Log Fence",
+            "multipleTextures":{
+                "yneg":"MossyAcaciaSide",
+                "ypos":"MossyAcaciaSide",
+                "zneg":"MossyAcaciaSide",
+                "zpos":"MossyAcaciaSide",
+                "xneg":"MossyAcaciaSide",
+                "xpos":"MossyAcaciaSide"
+            },
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 112,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Acacia Log Beam",
+            "textureName": "beamacacia",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 113
+        },
+        {
+            "name": "Acacia Log Beam Slab",
+            "textureName": "beamacacia",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 114
+        },				
+        {
+            "name": "Acacia Log Beam Stair",
+            "textureName": "beamacacia",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 115
+        },
+        {
+            "name": "Acacia Log Beam Wall",
+            "textureName": "beamacacia",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 116,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Acacia Log Beam Fence",
+            "textureName": "beamacacia",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 117,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Birch Log Beam",
+            "textureName": "beambirch",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 118
+        },
+        {
+            "name": "Birch Log Beam Slab",
+            "textureName": "beambirch",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 119
+        },				
+        {
+            "name": "Birch Log Beam Stair",
+            "textureName": "beambirch",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 120
+        },
+        {
+            "name": "Birch Log Beam Wall",
+            "textureName": "beambirch",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 121,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Birch Log Beam Fence",
+            "textureName": "beambirch",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 122,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dark Oak Log Beam",
+            "textureName": "beamdarkoak",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 123
+        },
+        {
+            "name": "Dark Oak Log Beam Slab",
+            "textureName": "beamdarkoak",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 124
+        },				
+        {
+            "name": "Dark Oak Log Beam Stair",
+            "textureName": "beamdarkoak",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 125
+        },
+        {
+            "name": "Dark Oak Log Beam Wall",
+            "textureName": "beamdarkoak",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 126,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dark Oak Log Beam Fence",
+            "textureName": "beamdarkoak",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 127,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Jungle Log Beam",
+            "textureName": "beamjungle",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 128
+        },
+        {
+            "name": "Jungle Log Beam Slab",
+            "textureName": "beamjungle",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 129
+        },				
+        {
+            "name": "Jungle Log Beam Stair",
+            "textureName": "beamjungle",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 130
+        },
+        {
+            "name": "Jungle Log Beam Wall",
+            "textureName": "beamjungle",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 131,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Jungle Log Beam Fence",
+            "textureName": "beamjungle",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 132,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Oak Log Beam",
+            "textureName": "beamoak",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 133
+        },
+        {
+            "name": "Oak Log Beam Slab",
+            "textureName": "beamoak",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 134
+        },				
+        {
+            "name": "Oak Log Beam Stair",
+            "textureName": "beamoak",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 135
+        },
+        {
+            "name": "Oak Log Beam Wall",
+            "textureName": "beamoak",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 136,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Oak Log Beam Fence",
+            "textureName": "beamoak",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 137,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Spruce Log Beam",
+            "textureName": "beamspruce",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 138
+        },
+        {
+            "name": "Spruce Log Beam Slab",
+            "textureName": "beamspruce",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 139
+        },				
+        {
+            "name": "Spruce Log Beam Stair",
+            "textureName": "beamspruce",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 140
+        },
+        {
+            "name": "Spruce Log Beam Wall",
+            "textureName": "beamspruce",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 141,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Spruce Log Beam Fence",
+            "textureName": "beamspruce",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 142,
+			"isOpaque": "false"
+        },##################################################
+        {
+            "name": "Brown Painted Planks",
+            "textureName": "painted_planks_brown",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 143
+        },
+        {
+            "name": "Brown Painted Planks Slab",
+            "textureName": "painted_planks_brown",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 144
+        },				
+        {
+            "name": "Brown Painted Planks Stair",
+            "textureName": "painted_planks_brown",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 145
+        },
+        {
+            "name": "Brown Painted Planks Wall",
+            "textureName": "painted_planks_brown",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 146,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Brown Painted Planks Fence",
+            "textureName": "painted_planks_brown",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 147,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Cyan Painted Planks",
+            "textureName": "painted_planks_cyan",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 148
+        },
+        {
+            "name": "Cyan Painted Planks Slab",
+            "textureName": "painted_planks_cyan",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 149
+        },				
+        {
+            "name": "Cyan Painted Planks Stair",
+            "textureName": "painted_planks_cyan",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 150
+        },
+        {
+            "name": "Cyan Painted Planks Wall",
+            "textureName": "painted_planks_cyan",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 151,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Cyan Painted Planks Fence",
+            "textureName": "painted_planks_cyan",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 152,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dark Blue Painted Planks",
+            "textureName": "painted_planks_dark_blue",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 153
+        },
+        {
+            "name": "Dark Blue Painted Planks Slab",
+            "textureName": "painted_planks_dark_blue",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 154
+        },				
+        {
+            "name": "Dark Blue Painted Planks Stair",
+            "textureName": "painted_planks_dark_blue",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 155
+        },
+        {
+            "name": "Dark Blue Painted Planks Wall",
+            "textureName": "painted_planks_dark_blue",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 156,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dark Blue Painted Planks Fence",
+            "textureName": "painted_planks_dark_blue",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 157,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Green Painted Planks",
+            "textureName": "painted_planks_green",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 158
+        },
+        {
+            "name": "Green Painted Planks Slab",
+            "textureName": "painted_planks_green",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 159
+        },				
+        {
+            "name": "Green Painted Planks Stair",
+            "textureName": "painted_planks_green",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 160
+        },
+        {
+            "name": "Green Painted Planks Wall",
+            "textureName": "painted_planks_green",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 161,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Green Painted Planks Fence",
+            "textureName": "painted_planks_green",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 162,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Light Blue Painted Planks",
+            "textureName": "painted_planks_light_blue",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 163
+        },
+        {
+            "name": "Light Blue Painted Planks Slab",
+            "textureName": "painted_planks_light_blue",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 164
+        },				
+        {
+            "name": "Light Blue Painted Planks Stair",
+            "textureName": "painted_planks_light_blue",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 165
+        },
+        {
+            "name": "Light Blue Painted Planks Wall",
+            "textureName": "painted_planks_light_blue",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 166,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Light Blue Painted Planks Fence",
+            "textureName": "painted_planks_light_blue",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 167,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Light Red Painted Planks",
+            "textureName": "painted_planks_light_red",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 168
+        },
+        {
+            "name": "Light Red Painted Planks Slab",
+            "textureName": "painted_planks_light_red",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 169
+        },				
+        {
+            "name": "Light Red Painted Planks Stair",
+            "textureName": "painted_planks_light_red",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 170
+        },
+        {
+            "name": "Light Red Painted Planks Wall",
+            "textureName": "painted_planks_light_red",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 171,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Light Red Painted Planks Fence",
+            "textureName": "painted_planks_light_red",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 172,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Lime Painted Planks",
+            "textureName": "painted_planks_lime",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 173
+        },
+        {
+            "name": "Lime Painted Planks Slab",
+            "textureName": "painted_planks_lime",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 174
+        },				
+        {
+            "name": "Lime Painted Planks Stair",
+            "textureName": "painted_planks_lime",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 175
+        },
+        {
+            "name": "Lime Painted Planks Wall",
+            "textureName": "painted_planks_lime",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 176,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Lime Painted Planks Fence",
+            "textureName": "painted_planks_lime",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 177,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Orange Painted Planks",
+            "textureName": "painted_planks_orange",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 178
+        },
+        {
+            "name": "Orange Painted Planks Slab",
+            "textureName": "painted_planks_orange",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 179
+        },				
+        {
+            "name": "Orange Painted Planks Stair",
+            "textureName": "painted_planks_orange",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 180
+        },
+        {
+            "name": "Orange Painted Planks Wall",
+            "textureName": "painted_planks_orange",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 181,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Orange Painted Planks Fence",
+            "textureName": "painted_planks_orange",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 182,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Purple Painted Planks",
+            "textureName": "painted_planks_purple",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 183
+        },
+        {
+            "name": "Purple Painted Planks Slab",
+            "textureName": "painted_planks_purple",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 184
+        },				
+        {
+            "name": "Purple Painted Planks Stair",
+            "textureName": "painted_planks_purple",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 185
+        },
+        {
+            "name": "Purple Painted Planks Wall",
+            "textureName": "painted_planks_purple",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 186,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Purple Painted Planks Fence",
+            "textureName": "painted_planks_purple",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 187,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Red Painted Planks",
+            "textureName": "painted_planks_red",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 188
+        },
+        {
+            "name": "Red Painted Planks Slab",
+            "textureName": "painted_planks_red",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 189
+        },				
+        {
+            "name": "Red Painted Planks Stair",
+            "textureName": "painted_planks_red",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 190
+        },
+        {
+            "name": "Red Painted Planks Wall",
+            "textureName": "painted_planks_red",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 191,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Red Painted Planks Fence",
+            "textureName": "painted_planks_red",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 192,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Yellow Painted Planks",
+            "textureName": "painted_planks_yellow",
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 193
+        },
+        {
+            "name": "Yellow Painted Planks Slab",
+            "textureName": "painted_planks_yellow",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 194
+        },				
+        {
+            "name": "Yellow Painted Planks Stair",
+            "textureName": "painted_planks_yellow",
+			"type":"Stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 195
+        },
+        {
+            "name": "Yellow Painted Planks Wall",
+            "textureName": "painted_planks_yellow",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 196,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Yellow Painted Planks Fence",
+            "textureName": "painted_planks_yellow",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 197,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Brown Painted Planks Trapdoor",
+            "textureName": "painted_planks_brown",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 198,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Cyan Painted Planks Trapdoor",
+            "textureName": "painted_planks_cyan",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 199,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dark Blue Painted Planks Trapdoor",
+            "textureName": "painted_planks_dark_blue",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 200,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Green Painted Planks Trapdoor",
+            "textureName": "painted_planks_green",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 201,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Light Blue Painted Planks Trapdoor",
+            "textureName": "painted_planks_light_blue",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 202,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Light Red Painted Planks Trapdoor",
+            "textureName": "painted_planks_light_red",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 203,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Lime Painted Planks Trapdoor",
+            "textureName": "painted_planks_lime",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 204,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Orange Painted Planks Trapdoor",
+            "textureName": "painted_planks_orange",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 205,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Purple Painted Planks Trapdoor",
+            "textureName": "painted_planks_purple",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 206,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Red Painted Planks Trapdoor",
+            "textureName": "painted_planks_red",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 207,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Yellow Painted Planks Trapdoor",
+            "textureName": "painted_planks_yellow",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 208,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Aged Planks",
+            "textureName": "aged_planks",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 209
+        },
+        {
+            "name": "Aged Planks Slab",
+            "textureName": "aged_planks",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 210
+        },
+        {
+            "name": "Ash Planks",
+            "textureName": "ash_planks",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 211
+        },
+        {
+            "name": "Ash Planks Slab",
+            "textureName": "ash_planks",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 212
+        },
+        {
+            "name": "Ash Planks Stairs",
+            "textureName": "ash_planks",
+			"type":"stairs",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 213
+        },
+        {
+            "name": "Beaver Log",
+            "multipleTextures":{
+                "yneg":"log_beaver_top",
+                "ypos":"log_beaver_top",
+                "zneg":"log_beaver_side",
+                "zpos":"log_beaver_side",
+                "xneg":"log_beaver_side",
+                "xpos":"log_beaver_side"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 214
+        },
+        {
+            "name": "Acacia Planks Paving",
+            "textureName": "planks_acacia",
+			"type":"carpet",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 215,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Acacia Planks Trapdoor",
+            "textureName": "planks_acacia",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 216,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Acacia Planks Wall",
+            "textureName": "planks_acacia",
+			"type":"Wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 217,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Birch Planks Paving",
+            "textureName": "planks_birch",
+			"type":"carpet",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 218,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Birch Planks Trapdoor",
+            "textureName": "planks_birch",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 219,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Birch Planks Wall",
+            "textureName": "planks_birch",
+			"type":"Wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 220,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dark Oak Planks Paving",
+            "textureName": "planks_big_oak",
+			"type":"carpet",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 221,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dark Oak Planks Trapdoor",
+            "textureName": "planks_big_oak",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 222,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dark Oak Planks Wall",
+            "textureName": "planks_big_oak",
+			"type":"Wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 223,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Jungle Planks Paving",
+            "textureName": "planks_jungle",
+			"type":"carpet",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 224,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Jungle Planks Trapdoor",
+            "textureName": "planks_jungle",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 225,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Jungle Planks Wall",
+            "textureName": "planks_jungle",
+			"type":"Wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 226,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Oak Planks Paving",
+            "textureName": "planks_birch",
+			"type":"carpet",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 227,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Oak Planks Trapdoor",
+            "textureName": "planks_oak",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 228,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Oak Planks Wall",
+            "textureName": "planks_oak",
+			"type":"Wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 229,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Spruce Planks Paving",
+            "textureName": "planks_spruce",
+			"type":"carpet",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 230,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Spruce Planks Trapdoor",
+            "textureName": "planks_spruce",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 231,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Spruce Planks Wall",
+            "textureName": "planks_spruce",
+			"type":"Wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 232,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Bound Spruce",
+            "textureName": "bound_spruce_wood",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 233
+        },
+        {
+            "name": "Bound Spruce Slab",
+            "textureName": "bound_spruce_wood",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 234
+        },
+        {
+            "name": "Bound Spruce Stair",
+            "textureName": "bound_spruce_wood",
+			"type":"Stair",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 235
+        },
+        {
+            "name": "Bound Wood Trapdoor",
+            "textureName": "bound_wood_trapdoor",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 236,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Burned Ash Log",
+            "multipleTextures":{
+                "yneg":"burned_ash_log_top",
+                "ypos":"burned_ash_log_top",
+                "zneg":"burned_ash_log",
+                "zpos":"burned_ash_log",
+                "xneg":"burned_ash_log",
+                "xpos":"burned_ash_log"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 237
+        },
+        {
+            "name": "Burned Oak Log",
+            "multipleTextures":{
+                "yneg":"burned_oak_log_top",
+                "ypos":"burned_oak_log_top",
+                "zneg":"burned_oak_log",
+                "zpos":"burned_oak_log",
+                "xneg":"burned_oak_log",
+                "xpos":"burned_oak_log"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 238
+        },
+        {
+            "name": "Bound Oak",
+            "textureName": "planks_nondescript",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 239
+        },
+        {
+            "name": "Bound Oak Slab",
+            "textureName": "planks_nondescript",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 240
+        },
+        {
+            "name": "Roped Wood",
+            "textureName": "roped_wood",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 241
+        },
+        {
+            "name": "Roped Wood Slab",
+            "textureName": "roped_wood",
+			"type":"slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 242
+        },
+        {
+            "name": "Dark Slotted Trapdoor 1",
+            "textureName": "trapdoor_dark_slotted_0",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 243,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dark Slotted Trapdoor 2",
+            "textureName": "trapdoor_dark_slotted_1",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 244,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Light Slotted Trapdoor 1",
+            "textureName": "trapdoor_light_slotted_0",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 245,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Light Slotted Trapdoor 2",
+            "textureName": "trapdoor_light_slotted_1",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 246,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Wood Lattice Trapdoor",
+            "textureName": "wood_lattice_trapdoor",
+			"type":"trapdoor",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 247,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Beech Log",
+            "multipleTextures":{
+                "yneg":"log_beech_top",
+                "ypos":"log_beech_top",
+                "zneg":"log_beech",
+                "zpos":"log_beech",
+                "xneg":"log_beech",
+                "xpos":"log_beech"
+            },
+			"type":"Log",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 248
+        },
+        {
+            "name": "Beech Log Slab",
+            "textureName": "log_beech",
+			"type":"Slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 249
+        },
+        {
+            "name": "Beech Log Stair",
+            "textureName": "log_beech",
+			"type":"Stair",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 250
+        },
+        {
+            "name": "Beech Log Fence",
+            "textureName": "log_beech",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 251,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Beech Log Wall",
+            "textureName": "log_beech",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 252,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Spruce Log Cabin",
+            "textureName": "spruce_log_cabin",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 253
+        },
+        {
+            "name": "Spruce Log Cabin Slab",
+            "textureName": "spruce_log_cabin",
+			"type":"Slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 254
+        },
+        {
+            "name": "Spruce Log Cabin Stair",
+            "textureName": "spruce_log_cabin",
+			"type":"Stair",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 255
+        },
+        {
+            "name": "Spruce Log Cabin Fence",
+            "textureName": "spruce_log_cabin",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 256,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Spruce Log Cabin Wall",
+            "textureName": "spruce_log_cabin",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 257,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Stave Wood",
+            "textureName": "stave_wood",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 258
+        },
+        {
+            "name": "Smooth Pine",
+            "textureName": "pine_wood_planks",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 259
+        },
+        {
+            "name": "Smooth Pine Slab",
+            "textureName": "pine_wood_planks",
+			"type":"Slab",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 260
+        },
+        {
+            "name": "Smooth Pine Stair",
+            "textureName": "pine_wood_planks",
+			"type":"Stair",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 261
+        },
+        {
+            "name": "Smooth Pine Fence",
+            "textureName": "pine_wood_planks",
+			"type":"fence",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 262,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Smooth Pine Wall",
+            "textureName": "pine_wood_planks",
+			"type":"wall",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 263,
+			"isOpaque": "false"
+        },
+        {
+            "name": "Wooden Panel",
+            "textureName": "panel1",
+            "creativeTab":"Wooden Blocks",
+			"registerOrder": 264
+        }																				
+    ]
+}
