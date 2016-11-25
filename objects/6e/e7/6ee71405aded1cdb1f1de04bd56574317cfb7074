@@ -1,0 +1,418 @@
+{
+    "blocks": [
+        {
+            "name": "Apple Leaves",
+            "textureName": "apples",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "cherry Leaves",
+            "textureName": "cherry",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Orange Leaves",
+            "textureName": "oranges",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Pear Leaves",
+            "textureName": "pears",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Plum Leaves",
+            "textureName": "plums",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Weirwood Leaves",
+            "textureName": "leaves_weirwood",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Blackberry Bush",
+            "textureName": "flower_tulip_white",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Blueberry Bush",
+            "textureName": "flower_tulip_pink",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Hanging Ivy",
+            "textureName": "hanging_ivy_web",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Hanging Lichen",
+            "textureName": "hanging_lichen",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Moss",
+            "textureName": "moss2_web",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Reeds",
+            "textureName": "reeds",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Heather",
+            "textureName": "Heather",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Woodworm",
+            "textureName": "wormwood",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Tussock",
+            "textureName": "tussock_grass_web",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Papyrus",
+            "textureName": "papyrus_web",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Nightshade",
+            "textureName": "nightshade",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Narthecium Ossifragum",
+            "textureName": "narthecium_ossifragum",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Legume",
+            "textureName": "legume_plant",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Juncus Effusus",
+            "textureName": "juncus_effusus_1",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Hemp",
+            "textureName": "hemp",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Hanging Flowers",
+            "textureName": "hanging_flowers_web",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Euphorbia Esula",
+            "textureName": "euphorbia_esula",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Eriophorum",
+            "textureName": "eriophorum",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Erica Tetralix",
+            "textureName": "erica_tetralix",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Cow Parsely",
+            "textureName": "cowparsley",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Convallaria Majalis",
+            "textureName": "convallaria_majalis",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Centaurea Nigra",
+            "textureName": "centaurea_nigra",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Bean Poles",
+            "textureName": "bean_poles",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Weeping Willow Leaves",
+            "textureName": "weeping_willow_leaves",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Thin Leaves",
+            "textureName": "thin_leaves",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Rowan Leaves",
+            "textureName": "rowan_leaves",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Mistletoe Leaves",
+            "textureName": "mistletoe",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Horse Chestnut Leaves",
+            "textureName": "horse_chestnut_leaves",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Holly Leaves",
+            "textureName": "holly_leaves",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Gorse Leaves",
+            "textureName": "gorse_leaves",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dark Broad Leaves",
+            "textureName": "dark_broad_leaves",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Brown Twiggy Leaves",
+            "textureName": "brown_twiggy_leaves",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Stinging Nettles",
+            "textureName": "flower_blue_orchid",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Fern 1",
+            "textureName": "flower_tulip_orange",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Fern 2",
+            "textureName": "flower_tulip_red",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Fireweed Stackable",
+            "textureName": "fireweed",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Thyme",
+            "textureName": "thyme_plant",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Wavy Hair Stackable",
+            "textureName": "double_plant_wavy_hair_top",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Bracken Stackable",
+            "textureName": "double_tall_bracken_top",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Juncus Effusus Stackable",
+            "textureName": "juncus_effusus_double_top",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Juncus Effusus Dead Stackable",
+            "textureName": "juncus_effusus_double_top_dead",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Aspen Leaves",
+            "textureName": "leaves_aspen",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Aspen Autum Leaves",
+            "textureName": "leaves_aspen_brown",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Thick Fern",
+            "textureName": "thick_fern",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Hanging Dead Body",
+            "textureName": "hanging_man",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Dirt Roots Overgrown",
+            "textureName": "dirt_roots_overgrown",
+            "creativeTab": "Natural"
+        },
+        {
+            "name": "Dirt Roots Autumn",
+            "textureName": "dirt_roots_autumn",
+            "creativeTab": "Natural"
+        },
+        {
+            "name": "Dark Spruce Needles",
+            "textureName": "spruce_needles_dark",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Light Spruce Needles",
+            "textureName": "spruce_needles_light",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Spruce Cones",
+            "textureName": "spruce_cones",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        },
+        {
+            "name": "Pine Needles",
+            "textureName": "pine_needles",
+            "creativeTab": "Natural",
+			"isOpaque": "false"
+        },
+		{
+            "name": "Pine Cones",
+            "textureName": "pine_cones",
+            "creativeTab": "Natural",
+			"type": "crossed",
+			"isOpaque": "false"
+        }
+	],
+    "crops":[
+        {
+            "name":"Cabbage",
+            "textureName":"cabbage",
+            "creativeTab": "Natural",
+            "renderType": "flower"
+        },
+        {
+            "name":"Turnip",
+            "textureName":"turnip",
+            "creativeTab": "Natural",
+            "renderType": "crop"
+        },
+        {
+            "name":"Barley",
+            "textureName":"barley",
+            "creativeTab": "Natural",
+            "renderType": "crop"
+        },
+        {
+            "name":"Herb",
+            "textureName":"herbs",
+            "creativeTab": "Natural",
+            "renderType": "crop"
+        },
+        {
+            "name":"Peas",
+            "textureName":"beans",
+            "creativeTab": "Natural",
+            "renderType": "crop"
+        }
+    ]
+}
